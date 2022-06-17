@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <h1 id="result">Please Wait...</h1>
+      <script type="text/javascript">
+
+        document.getElementById('result')
+        .innerHTML = navigator.language;
+
+        localStorage.setItem('user_name','DOM_localStorage');
+        sessionStorage.setItem('user_name','DOM_SessionStorage')
+
+        //console.log("FROM DOM" + localStorage.getItem('user_name'));
+        //console.log("FROM DOM" + sessionStorage.getItem('user_name'));
+        
+    </script>
+  </body>
+</html>
