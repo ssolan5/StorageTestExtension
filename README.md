@@ -12,6 +12,7 @@ I reload the website:
 <img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419037-e2ee26be-cc4a-4b58-a666-1bedf9c8196b.png">
 
 This is what shows up on devtools:
+
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/1576941/174418917-c5c1ed81-8e1f-45cc-a0b2-f40b73895bfb.png">
 
 
