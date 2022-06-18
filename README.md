@@ -26,3 +26,13 @@ nothing in devtools:
 <img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419268-58a0df23-6d52-4c07-bf0d-5a2af3fa6a1a.png">
 
 
+### Case #2.2
+
+```localStorage.setItem('user_name', 'localStorage_Extension');```
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419352-1c6bba1d-9528-4e7c-ab94-62ab60615219.png">
+
+in devtools: 
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419377-bf88d242-532b-43ce-932a-f880b7668450.png">
+
+
+## Case #3 
