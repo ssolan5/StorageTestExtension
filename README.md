@@ -36,4 +36,12 @@ in devtools:
 <img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419377-bf88d242-532b-43ce-932a-f880b7668450.png">
 
 
-## Case #3 
+## Case #3 We are setting the sessionstorage from the toy website.
+
+
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419599-45934e7b-d8c2-4e11-bd7d-69b62b418e73.png">
+
+in devtools:
+
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/1576941/174419637-d2b02a3e-6591-413c-adab-42fb5c5ea1e3.png">
+
