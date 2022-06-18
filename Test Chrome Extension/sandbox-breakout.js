@@ -34,10 +34,26 @@ const runInPageContext = (method, ...args) => {
 
 
 // localStorage
-chrome.storage.local.set({'user_name': 'Extension'});
+//chrome.storage.local.set({'user_name': 'localStorage_Extension'});
+
+//localStorage.setItem('user_name', 'localStorage_Extension');
+sessionStorage.setItem('user_name', 'sessionStorage_Extension');
+
 chrome.storage.local.get('user_name',function(data){
-  console.log("FOUND IT   :" + data.user_name);
+  console.log(" Using chrome.storage.local.get   : " + data.user_name);
 });
+
+//console.log(" Using localStorage.getItem : " + localStorage.getItem('user_name'));
+console.log(" Using sessionStorage.getItem : " + sessionStorage.getItem('user_name'));
+
+/*
+chrome.storage.local.clear(function() {
+    var error = chrome.runtime.lastError;
+    if (error) {
+        console.error(error);
+    }
+    // do something more
+});*/
 
 
 
