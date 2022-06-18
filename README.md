@@ -1,7 +1,7 @@
 # StorageTestExtension
 
 
-I make sure to clear the cache and call localstorage.clear(), before each case. 
+I make sure to clear the cache and call sessionStorage.clear() and localstorage.clear(), before each case. 
 
 ## Case #1 We are setting the localstorage from the toy website.
 
